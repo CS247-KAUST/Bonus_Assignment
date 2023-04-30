@@ -18,7 +18,7 @@ The goal of this bonus assignment is to implement Direct Volume Rendering using 
     * Receive user input from keyboard (15 points)
     * Receive user input from interactive HTML elements (15 points)
 + Interactive transfer function (35 points)
-    * Display the current transfer function in another canvas (15 points)
+    * Display the current transfer function (15 points)
     * Update transfer function based on user input (20 points)
 
 ## Notes ##
