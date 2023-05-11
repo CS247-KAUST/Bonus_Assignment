@@ -1,5 +1,5 @@
 # Bonus Assignment Description #
-**Due: May 10th**
+**Due: May 15th**
 
 The goal of this bonus assignment is to implement Direct Volume Rendering using WebGL and ES6
 
